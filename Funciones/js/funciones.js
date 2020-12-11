@@ -59,7 +59,7 @@ viaje2 = viajando2('Londres', '9 dias');
 
 console.log(viaje2);
 
-
+// Se pueden eliminar las llaves, solo si la funcion tiene una linea 
 
 let viajando3 = (destino, duracion) => `Viajando a la ciudad de: ${destino} por ${duracion}`;
 
